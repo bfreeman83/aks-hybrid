@@ -9,6 +9,6 @@ assignees: ''
 
 <!-- Please only use this template for submitting feature requests -->
 
-**Title**:
+**Title**: -force flag for Set-AksHciProxySetting 
 
-**Description**:
+**Description**: Client for a case ask if he could get the -force flag enabled on for the powershell command Set-AksHciProxySetting.  I'm putting in this feature request for them.
